@@ -1,4 +1,3 @@
-```java
 // Data Access Component
 public interface SharePriceDao {
 
@@ -83,4 +82,4 @@ Chart chart = chartingService.compareCharts(sharePrices1, sharePrices2);
 return chart;
 }
 }
-```
+
