@@ -3,27 +3,27 @@
 ### System Components:
 
 1. **Data Access Component:**
-- Responsibilities:
+Responsibilities:
 - Retrieve share price data from external sources (e.g., Yahoo Finance)
 - Store and retrieve price data from persistent storage (e.g., SQLite, JSON)
 
 2. **Charting Component:**
-- Responsibilities:
+Responsibilities:
 - Generate line charts of share prices over time
 - Allow users to compare charts of multiple companies
 
 3. **User Interface Component:**
-- Responsibilities:
+Responsibilities:
 - Provide a user-friendly interface for inputting share symbols and date ranges
 - Display charts and allow users to interact with them
 
 4. **Data Model Component:**
-- Responsibilities:
+Responsibilities:
 - Represent share price data as objects
 - Facilitate data persistence and retrieval
 
 5. **Service Layer Component:**
-- Responsibilities:
+Responsibilities:
 - Orchestrate interactions between other components
 - Enforce business rules and data validation
 
