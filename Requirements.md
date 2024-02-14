@@ -15,17 +15,28 @@
 
 ## Manageable Tasks:
 •	Data Acquisition Module: Implement the logic to fetch share price data from the data source.
+
 •	Data Storage Module: Choose and implement a suitable data storage mechanism (e.g., SQLite, JSON).
+
 •	Data Visualization Module: Create a charting component to display share price graphs.
+
 •	User Interface Module: Design and implement the user interface for input and output.
+
 •	Architecture Design: Define the overall architectural structure of the application (e.g., Simple Architecture, Clean Architecture).
+
 •	Scalability Enhancements: Implement techniques to improve the application's performance under high load.
+
 •	Robustness Enhancements: Add error handling mechanisms and ensure data integrity.
 
 ## Initial Release Scope:
+
 •	Basic Data Acquisition: Fetch daily share price data for a single company within a one-year time range.
+
 •	Simple Data Storage: Store share price data in a text format (e.g., JSON).
+
 •	Basic Data Visualization: Display a line chart of daily share price for a single company.
+
 •	User Interface: Implement a simple user interface for inputting the company symbol and time range.
+
 •	Simple Architecture: Use a basic architectural design with minimal separation of concerns.
 
