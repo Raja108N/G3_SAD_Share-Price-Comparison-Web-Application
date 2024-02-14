@@ -2,10 +2,15 @@
 
 ## High-Level Requirements:
 •	Data Acquisition: Obtain daily share price information from a data source (e.g., Yahoo Finance) for a specified time range.
+
 •	Data Storage: Persistently store share price data for offline functionality.
+
 •	Data Visualization: Display graphs of daily share price over time ranges for one or two companies.
+
 •	User Interface: Provide a user-friendly interface for inputting parameters and viewing results.
+
 •	Scalability: Design the application to handle a large number of users and data volume.
+
 •	Robustness: Ensure the application is reliable and can handle errors gracefully.
 
 ## Manageable Tasks:
