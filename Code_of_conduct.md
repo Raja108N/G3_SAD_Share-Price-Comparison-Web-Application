@@ -1,4 +1,4 @@
-# Code of Conduct for Software Development Module Assignment
+# Code of Conduct for Software Artitecture and Design Module Assignment
 
 **Equal Contribution:**
 
