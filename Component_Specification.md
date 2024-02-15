@@ -39,5 +39,7 @@ Responsibilities:
 - The Charting Component interacts with the Data Model Component to access share price data and generate charts.
 -
 
-![SAD](https://github.com/Raja108N/G3_SAD_Share-Price-Comparison-Web-Application/assets/159127703/3f1f4e3e-6073-4c9c-8e61-06893a8b5d55)
+![SAD](https://github.com/Raja108N/G3_SAD_Share-Price-Comparison-Web-Application/assets/159127703/cda57d45-99fa-40d6-9e34-0957fbff946c)
+
+
 
